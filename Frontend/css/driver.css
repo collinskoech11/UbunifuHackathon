@@ -1,8 +1,7 @@
-.section {
-    width:100%;
-    height:auto;
+.users h1{
+    text-align:center;
 }
-
-.dsection{
-    
+.user .users{
+    width: 95%;
+    margin-left: 2.5%;
 }
