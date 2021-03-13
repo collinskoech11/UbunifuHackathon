@@ -14,12 +14,12 @@
     justify-content: center;
     align-items: center;
 }
-.submit button{
+.submit button:hover{
     width: 200px;
     height: 45px;
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: transparent;
+    background-color: rgb(0,0,100,0.4);
     border: 2px solid #fff;
     border-radius: 10px;
     cursor: pointer;
