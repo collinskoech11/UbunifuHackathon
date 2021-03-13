@@ -35,4 +35,9 @@ header{
     background-color: transparent;
     border: 2px solid rgb(0, 0, 0,0.1);
     border-radius: 10px;
+    cursor: pointer;
+}
+.log:hover{
+    background:rgb(0,128,128);
+    transition: 1s;
 }
