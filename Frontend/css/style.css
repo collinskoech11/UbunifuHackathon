@@ -18,12 +18,21 @@ header{
 }
 .section{
     width: 95%;
-    height: 100px;
+    height: 130px;
     margin-left: 2.5%;
     margin-top: 10px;
     background: rgb(0,0,100,0.4);
     text-align: center;
     align-items: center;
     display: block;
+    border-radius: 10px;
+}
+.log{
+    width: 100px;
+    height: 45px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: 2px solid rgb(0, 0, 0,0.1);
     border-radius: 10px;
 }
